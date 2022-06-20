@@ -141,4 +141,4 @@ async def helpmenu(ctx):
     helpEmbed.add_field(name = "Pour les modérateurs:", value = "-kick [membre] [raison]: exclu le membre mentionné \n -ban [membre] [raison]: banni le membre mentionné \n -unban [pseudo + tag]: déban la personne \n -clear [nombre]: efface le nombre de messages demander", inline = False)
     await ctx.send(embed = helpEmbed)
 
-bot.run("OTc2NDc2NjUyOTc4NzI0OTA1.GhiI6c.flBT5_rRVM_JgZ6nzCaBDkKpQ-SUA68Xgrz6U8")
+bot.run("Votre token")
